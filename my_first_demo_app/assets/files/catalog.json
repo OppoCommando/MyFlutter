@@ -1,0 +1,84 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"color": "#33505a",
+			"desc": "The Redmi 7A brings the best features.",
+			"image": "http://healthapp.logicrackinfosystem.com/images/redmi.jpg",
+			"name": "Redmi 7A",
+			"price": 5000
+		},
+		{
+			"id": 2,
+			"color": "#33505a",
+			"desc": "The Xiaomi Redmi 2 Prime sports a 4.7-inch.",
+			"image": "http://healthapp.logicrackinfosystem.com/images/redmiprime.jpg",
+			"name": "Redmi Prime 2",
+			"price": 5000
+		},
+		{
+			"id": 3,
+			"color": "#33505a",
+			"desc": "Xiaomi Redmi Note 8 features a 6.3-inch.",
+			"image": "http://healthapp.logicrackinfosystem.com/images/redmi_note8.jpg",
+			"name": "Redmi Note 8",
+			"price": 8000
+		},
+		{
+			"id": 4,
+			"color": "#33505a",
+			"desc": "Samsung Galaxy M42 5G is provided.",
+			"image": "http://healthapp.logicrackinfosystem.com/images/samsungm42.jpg",
+			"name": "Samsung M42",
+			"price": 18000
+		},
+		{
+			"id": 5,
+			"color": "#33505a",
+			"desc": "New Apple iPhone 12 Pro Max Mobile Phone.",
+			"image": "http://healthapp.logicrackinfosystem.com/images/iphone12promax.jpg",
+			"name": "iphone 12 pro max",
+			"price": 100000
+		},{
+			"id": 6,
+			"color": "#33505a",
+			"desc": "The Redmi 7A brings the best features.",
+			"image": "http://healthapp.logicrackinfosystem.com/images/redmi.jpg",
+			"name": "Redmi 7A",
+			"price": 5000
+		},
+		{
+			"id": 7,
+			"color": "#33505a",
+			"desc": "The Xiaomi Redmi 2 Prime sports a 4.7-inch.",
+			"image": "http://healthapp.logicrackinfosystem.com/images/redmiprime.jpg",
+			"name": "Redmi Prime 2",
+			"price": 5000
+		},
+		{
+			"id": 8,
+			"color": "#33505a",
+			"desc": "Xiaomi Redmi Note 8 features a 6.3-inch.",
+			"image": "http://healthapp.logicrackinfosystem.com/images/redmi_note8.jpg",
+			"name": "Redmi Note 8",
+			"price": 10000
+		},
+		{
+			"id": 9,
+			"color": "#33505a",
+			"desc": "Samsung Galaxy M42 5G is provided.",
+			"image": "http://healthapp.logicrackinfosystem.com/images/samsungm42.jpg",
+			"name": "Samsung M42",
+			"price": 19000
+		},
+		{
+			"id": 10,
+			"color": "#33505a",
+			"desc": "New Apple iPhone 12 Pro Max Mobile Phone.",
+			"image": "http://healthapp.logicrackinfosystem.com/images/iphone12promax.jpg",
+			"name": "iphone 12 pro max",
+			"price": 100000
+		}
+
+	]
+}
